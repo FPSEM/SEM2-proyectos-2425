@@ -26,4 +26,4 @@ Este repositorio está abierto a mejoras. Si eres docente, estudiante o profesio
 
 Responsable: Juan Carlos Allica  
 Centro: CIFPN1 – Cantabria  
-Correo: *(opcional, si deseas incluirlo)*
+Correo: 
